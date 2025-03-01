@@ -40,6 +40,15 @@ Product Line, Quantity, and Unit Price
 Total Sales & Tax Amount
 Date & Time of Purchase
 Payment Method & Rating
+**
+![image](https://github.com/user-attachments/assets/06f7140b-ca65-401a-a6ca-0b04834b249c)
+
+
+
+
+
+
+**
 
 ### Google Cloud Storage
 The raw CSV file is uploaded to a Google Cloud Storage bucket for processing.
