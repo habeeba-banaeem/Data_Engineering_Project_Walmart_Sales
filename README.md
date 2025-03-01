@@ -90,7 +90,7 @@ This project visualizes Walmart sales data using Power BI, providing insights in
 1️⃣ Clone the Repository
    ```bash
    git clone https://github.com/habeeba-banaeem/Data_Engineering_Project_Walmart_Sales.git
-
+--
 2️⃣ Build & Run Docker Containers
    ```bash
 docker-compose up --build
