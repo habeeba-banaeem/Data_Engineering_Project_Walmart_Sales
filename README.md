@@ -58,9 +58,11 @@ A **Dockerized Python script** is deployed to** Google Cloud Run,** automating t
 - Calculating total revenue, tax, and sales metrics.
 
 ### Data Analysis and Insights 
-**BigQuery SQL Transformations
-- The primary transformation performed is on date formatting to ensure consistency across different formats. The transformation logic:
-Converts Date from mixed formats (%m/%d/%Y and %d/%m/%Y) into a unified format using COALESCE(SAFE.PARSE_DATE(...)). Extracts Year, Month, and Day from the formatted date for time-based analysis. Potential Future Transformations Although the current transformation mainly handles date standardization, additional queries can be created to extract more insights:
+**BigQuery SQL Transformations**
+- The primary transformation performed is on date formatting to ensure consistency across different formats.The transformation logic:
+
+Converts Date from mixed formats (%m/%d/%Y and %d/%m/%Y) into a unified format using COALESCE(SAFE.PARSE_DATE(...)). Extracts Year, Month, and Day from the formatted date for time-based analysis. Potential Future Transformations 
+Although the current transformation mainly handles date standardization, additional queries can be created to extract more insights:
 
 Total Sales per Branch: Aggregates revenue per store location. 
 Best-Selling Product Lines: Identifies top-performing product categories. 
