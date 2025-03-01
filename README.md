@@ -104,14 +104,13 @@ gcloud builds submit --tag gcr.io/your-project-id/walmart-sales-pipeline
 gcloud run deploy walmart-sales-service --image gcr.io/your-project-id/walmart-sales-pipeline --platform managed
 ```
 
-4️⃣ Check BigQuery Data
+**4️⃣ Check BigQuery Data
 - Open **BigQuery UI** and check if the tables have been updated.
 ```
 
-5️⃣ View the Power BI Dashboard
-   ```bash
+**5️⃣ View the Power BI Dashboard
 - Access the Power BI report embedded in index.html.
-```
+
 
 ### Usage
 
