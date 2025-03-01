@@ -46,9 +46,10 @@ The dataset consists of Walmart sales data stored in CSV format, containing colu
 ### Google Cloud Storage
 The raw CSV file is uploaded to a Google Cloud Storage bucket for processing.
 
+![gcs](https://github.com/user-attachments/assets/85f9c6d5-a850-4408-84f2-0aae972db1b4)
 
 ### Data Processing and Transformation
-A **Dockerized Python script** is deployed to** Google Cloud Run,** automating the ELT process:
+A **Dockerized Python script** is deployed to **Google Cloud Run,** automating the ELT process:
 
 1. Extracts CSV data from Google Cloud Storage.
 2. Loads raw data into BigQuery without transformations.
