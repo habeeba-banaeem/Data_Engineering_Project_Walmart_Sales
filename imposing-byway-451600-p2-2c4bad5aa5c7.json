@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": <your_project_ID>
+  "private_key_id": "<your_private_key>",
+  "private_key": "-----BEGIN PRIVATE KEY-----\<your_private_key\nWkNvwLCYdd8q9IGItMGx+q5CSfDLSK3vrqXsr/lDaLdWh3g3ZlHsAX1x8xFb+I29\nwrbROVBvWtgpOYIihhezHEX0n7/nMAoYbWbF/zBld7Ze5tnOSexLDoiBRCkifPxG\n6S3GKPWMWNVTNNnPU1WffAppMzKAyZsUPRIoX7Z2neHif1sG4rHjR60Wv0o4a4KF\n7IJ25ancqY5qqkMTNSk9beg0RyeGYOdW/p65zk9BLCaN5lIgUPzZ4mKUnRfvNzmw\nc2zfWw61086nQM5AJgAK/2pBX+QRDlsu9JN73GGLrx4i6OPk+9zQn1X8Dxc6SBDG\n+nQRozu1AgMBAAECggEABbzrx3WnACyBVUnWJkjfahzP8WR+Zu55N6v0tOoPjINz\n+TmZ/tH0A2dWAll8y0NAcirCkrcuWgv6SjVuhBo/YfY0OS+YOEZPPyQeDexoaYIh\nOb1shcUtNRaRrQwlqYOQxnu6yaf9IPCMfR8AnlIx3ukF4U+/BPR28BFGg7cvQeu5\nZ4LpOlU2w3sSrin1tkICruO/HFKrJb8H2IzZiL3W7qGdBgE1Fkw0x7ncpUOfff+6\nQFgwSXt52EVzCFY0dNKvdIL2LPlKuf+vf+AFxcsRPuf3SN1SuWKS6cowCt6CVp0k\nWKDcV/XUE7IRgZa7SWd/owlP1snlbcABUPNcMEx9cQKBgQDJKPis46DnvSkGkTqu\ninZlTozxE4AovXcdloNjM5FCHPGL/aYyATLrKGHuTuruxCs9DXf8WbzPKPaXuxHM\nGjT/VBGivquzWTjCDFOWuef7EKBGwt0tozOQmpF4WyFbj+ZpNAjJ40Uokst6NuWY\nJd7bLmWVeNLQkpxuSAtr/Hl0aQKBgQC8+G1PqXu6LzAAPYrXBWwnSlZbKlav0V12\nt9gbG/gyh7ZtT+4sHD1Ez7AAQGlWQ2z8AgODOTmMQBvAEvH132EN7eRKYWTp8HmK\nIjoNqTssHFwy2HM8d2n9YKZeKBi0xIgh6weWxJiiTSEuZMlV8UYLB/lFlQC25WPb\naWJ1I2XzbQKBgBgfXKrG5T3E9k1+Tu4tVoNRhx9FumGoTsdyjDDyNyIZfHHQKgTn\nFecTQaMlPZECXzkEC3ZsgHLLM78AROMX5XEU8MR2Xvqz4VWLyt5RTttRpBa4OXPG\nlWFq17T6IKbtO7Ez9zXWli2GZPYz7RZwvCfGiZICGi2+1xl2dEAv15S5AoGBAIYJ\n2M+GskJwMiYZgR/fssVzzyk/MNnpMdiBswIXpseAx/9lkNUs+rCSeI7VIWKU1Ps0\nGnW743v+BTEKvyHd3qPYt/OifcgKUMuQV4lVHqm9PBC8w5CCS2X0Zk2nN08RkFYu\nteVVcca92uljiAQz7bDpaQDYHfedYmVBrRrVjv1JAoGAQECIQ+puAo4DOMBnHVcU\nkmq9cE/49DDakci5Iqmr9dB6wpo89OeXXXEpeTInfugHCRkNRtlcn61TQFya6drG\nYkfpULSBI4V/a7zVz9+8ikeoPaxqY8Qngm53x6sAfLdDDXpgb6BvP2LYmCvoCBWv\nvPwepPjPCwpaKUuLQMS+tLc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "<your_service_account_email>",
+  "client_id": "<your_client_ID>",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/etl-pipeline-sa%40imposing-byway-451600-p2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
