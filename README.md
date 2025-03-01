@@ -77,7 +77,7 @@ This project visualizes Walmart sales data using Power BI, providing insights in
 - 💰 Gross Income Analysis: Displays total earnings from sales.
 
 ### Orchestration with Docker & Cloud Run
-### **Docker & Cloud Run
+### **Docker & Cloud Run**
 - **Dockerfile**: Defines the Python environment for processing Walmart sales data.
 - **Cloud Run Deployment**: Automates ELT execution.
 
