@@ -1,0 +1,7 @@
+google-cloud-storage
+google-cloud-bigquery
+pandas
+werkzeug==2.0.3
+
+
+
