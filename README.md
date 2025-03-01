@@ -87,24 +87,33 @@ This project visualizes Walmart sales data using Power BI, providing insights in
 ✅ **Google Cloud Account (BigQuery & Cloud Storage)**
 
 ## Installation
+
 1️⃣ Clone the Repository
    ```bash
    git clone https://github.com/habeeba-banaeem/Data_Engineering_Project_Walmart_Sales.git
---
+```
+
 2️⃣ Build & Run Docker Containers
    ```bash
 docker-compose up --build
+```
 
 3️⃣ Deploy to Google Cloud Run
    ```bash
 gcloud builds submit --tag gcr.io/your-project-id/walmart-sales-pipeline
 gcloud run deploy walmart-sales-service --image gcr.io/your-project-id/walmart-sales-pipeline --platform managed
+```
+
 4️⃣ Check BigQuery Data
 Open BigQuery UI and check if the tables have been updated.
+```
+
 5️⃣ View the Power BI Dashboard
 Access the Power BI report embedded in index.html.
+```
 
-### **Usage**
+### Usage
+
 🚀 **Automated Sales Data Processing**
 📊 **Real-Time Sales Dashboard in Power BI**
 📈 **Business Insights for Decision-Making**
