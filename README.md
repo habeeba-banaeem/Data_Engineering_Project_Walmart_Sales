@@ -109,6 +109,7 @@ gcloud run deploy walmart-sales-service --image gcr.io/your-project-id/walmart-s
 ```
 
 5️⃣ View the Power BI Dashboard
+   ```bash
 - Access the Power BI report embedded in index.html.
 ```
 
