@@ -105,11 +105,11 @@ gcloud run deploy walmart-sales-service --image gcr.io/your-project-id/walmart-s
 ```
 
 4️⃣ Check BigQuery Data
-Open BigQuery UI and check if the tables have been updated.
+- Open **BigQuery UI** and check if the tables have been updated.
 ```
 
 5️⃣ View the Power BI Dashboard
-Access the Power BI report embedded in index.html.
+- Access the Power BI report embedded in index.html.
 ```
 
 ### Usage
