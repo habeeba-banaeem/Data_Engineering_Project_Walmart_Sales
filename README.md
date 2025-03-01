@@ -67,13 +67,14 @@ Best-Selling Product Lines: Identifies top-performing product categories.
 Customer Segmentation: Analyzes spending patterns based on gender and customer type. 
 Peak Sales Periods: Determines high-traffic days/times for strategic decision-making.
 
-### PowerBI Dashboard
+### **PowerBI Dashboard**
 This project visualizes Walmart sales data using Power BI, providing insights into sales trends, customer behavior, and payment preferences. Key features include:
--- 📈 Total Revenue & Sales Trends: A line chart tracks sales over time. 
--- 🏆 Top 3 Selling Product Lines: The most popular categories by gender. 
--- 💳 Payment Methods Breakdown: Pie chart shows the proportion of cash, e-wallet, and credit card transactions. 
--- 🏙️ Sales by City: Pie chart displays total revenue distribution across Mandalay, Naypyitaw, and Yangon. -- 🛍️ Branch & Customer Type: Bar chart shows total sales categorized by branch and customer type (Member vs. Normal). 
--- 💰 Gross Income Analysis: Displays total earnings from sales.
+
+📈 Total Revenue & Sales Trends: A line chart tracks sales over time. 
+🏆 Top 3 Selling Product Lines: The most popular categories by gender. 
+💳 Payment Methods Breakdown: Pie chart shows the proportion of cash, e-wallet, and credit card transactions. 
+🏙️ Sales by City: Pie chart displays total revenue distribution across Mandalay, Naypyitaw, and Yangon. -- 🛍️ Branch & Customer Type: Bar chart shows total sales categorized by branch and customer type (Member vs. Normal). 
+💰 Gross Income Analysis: Displays total earnings from sales.
 
 ### Orchestration with Docker & Cloud Run
 ### **Docker & Cloud Run
