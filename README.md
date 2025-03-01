@@ -2,10 +2,10 @@
 Automated ELT pipeline for Walmart sales data with Power BI visualization
 
 ## Project Overview
-This project focuses on building a data pipeline to process and analyze Walmart sales data. It involves extracting, loading, and transforming (ELT) the data, which is then visualized using Power BI. The workflow is orchestrated using Google Cloud Storage, BigQuery, Docker, and Cloud Run to automate the ELT process.
+This project focuses on building a **data pipeline** to process and analyze Walmart sales data. It involves **extracting, loading, and transforming (ELT)** the data, which is then visualized using Power BI. The workflow is orchestrated using **Google Cloud Storage, BigQuery, Docker, and Cloud Run** to automate the ELT process.
 
 ### Problem Statement
-Walmart requires a sales analytics platform to track revenue, customer trends, and product performance across different stores. The objective is to ingest, process, and visualize Walmart sales data efficiently to support business decision-making.
+Walmart requires a **sales analytics platform** to track revenue, customer trends, and product performance across different stores. The objective is to **ingest, process, and visualize** Walmart sales data efficiently to support business decision-making.
 
 ### Objectives
 The primary objectives of this project are:
@@ -14,10 +14,14 @@ The primary objectives of this project are:
 3. To deploy the pipeline on Google Cloud Run for scalability and automation.
 
 ### Project Structure
-📂 Google Cloud Storage: Stores the raw CSV sales data.
-📂 BigQuery: Serves as the data warehouse, where raw data is ingested and transformed.
-📂 Cloud Run (Dockerized Python Script): Automates the ELT pipeline by fetching data from Cloud Storage and loading it into BigQuery.
-📂 Power BI Dashboard: Visualizes sales trends, revenue insights, and customer behavior.
+📂 **Google Cloud Storage:** Stores the raw CSV sales data.
+
+📂 **BigQuery:** Serves as the data warehouse, where raw data is ingested and transformed.
+
+📂 **Cloud Run (Dockerized Python Script):** Automates the ELT pipeline by fetching data from Cloud Storage and loading it into BigQuery.
+
+📂 **Power BI Dashboard:** Visualizes sales trends, revenue insights, and customer behavior.
+![image](https://github.com/user-attachments/assets/f4fb50dd-91c6-4056-9802-87782c753ef4)
 
 ### Technologies Used
 - **Programming Languages**: Python, SQL
