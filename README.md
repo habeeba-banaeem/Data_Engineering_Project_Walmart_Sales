@@ -123,8 +123,8 @@ gcloud run deploy walmart-sales-service --image gcr.io/your-project-id/walmart-s
 
 ### Usage
 
-🚀 **Automated Sales Data Processing**
-📊 **Real-Time Sales Dashboard in Power BI**
-📈 **Business Insights for Decision-Making**
+- 🚀 **Automated Sales Data Processing**
+- 📊 **Real-Time Sales Dashboard in Power BI**
+- 📈 **Business Insights for Decision-Making**
 
 
