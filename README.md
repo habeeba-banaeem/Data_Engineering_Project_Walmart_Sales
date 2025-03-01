@@ -68,6 +68,7 @@ Total Sales per Branch: Aggregates revenue per store location.
 Best-Selling Product Lines: Identifies top-performing product categories. 
 Customer Segmentation: Analyzes spending patterns based on gender and customer type. 
 Peak Sales Periods: Determines high-traffic days/times for strategic decision-making.
+![big query](https://github.com/user-attachments/assets/600634fe-1525-466e-a957-c44c8feb3407)
 
 ### **PowerBI Dashboard**
 This project visualizes Walmart sales data using Power BI, providing insights into sales trends, customer behavior, and payment preferences. Key features include:
@@ -77,11 +78,15 @@ This project visualizes Walmart sales data using Power BI, providing insights in
 - 🏙️ Sales by City: Pie chart displays total revenue distribution across Mandalay, Naypyitaw, and Yangon- 
 - 🛍️ Branch & Customer Type: Bar chart shows total sales categorized by branch and customer type (Member vs. Normal). 
 - 💰 Gross Income Analysis: Displays total earnings from sales.
+![image](https://github.com/user-attachments/assets/a8867120-644a-4b61-a6c1-4119426ed0c3)
 
 ### Orchestration with Docker & Cloud Run
 ### **Docker & Cloud Run**
 - **Dockerfile**: Defines the Python environment for processing Walmart sales data.
+![image](https://github.com/user-attachments/assets/f3d6131a-266b-4263-905e-538857aa5599)
+
 - **Cloud Run Deployment**: Automates ELT execution.
+![cloud run ](https://github.com/user-attachments/assets/eb429336-bddc-44c7-a602-6c71767e002e)
 
 ### Getting Started
 **Prerequisites**
